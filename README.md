@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=Isabel-Lifu-211207-XPrado"></a> <!--Trophies-->
+  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=Isabel-Lifu-211207-XPrado&theme=dracula"></a> <!--Trophies-->
 </p>
 
 
