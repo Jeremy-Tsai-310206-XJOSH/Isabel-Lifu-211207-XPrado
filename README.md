@@ -14,5 +14,6 @@
 
 
 <!--
-  ~ README created by @TurnipGuy30 ~ Find me at GitHub.com/TurnipGuy30 ~
+  ~ README created by @TurnipGuy30 ~ Find me at GitHub.com/TurnipGuy30 ~ 
+  ~ SPECIAL THANKS TO TurnipGuy30 FOR CREATING MY PROFILE'S README FILE ~
 -->
