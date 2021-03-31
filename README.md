@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=Isabel-Lifu-211207-XPrado&column=4&title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=dracula"></a> <!--Trophies-->
+  <a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=Isabel-Lifu-211207-XPrado&column=4&title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=darkhub"></a> <!--Trophies-->
 </p>
 
 
