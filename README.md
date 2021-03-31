@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://gpvc.arturio.dev/Isabel-Lifu-211207-XPrado"></a> <!--Profile views-->
-  <a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-pink.svg"></a> <!--Contact-->
+  <a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-purple.svg"></a> <!--Contact-->
   <a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout-->
 </p>
 
