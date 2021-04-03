@@ -8,6 +8,7 @@
 
 <p align="center">
 	<a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=Isabel-Lifu-211207-XPrado&column=4&title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=dracula"></a><br> <!--Trophies-->
+	<img src="https://github-readme-stats.vercel.app/api?username=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&theme=tokyonight"><br>
 </p>
 
 
