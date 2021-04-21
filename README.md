@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my profile!</h3><br>
 <div align="center">
 <h3>
-About Isabel (Me):<br></h3>
+About Isabel (Me):</h3><br>
 <h4>Date of Birth: 21st December 2007<br>
 Birth Place: Sunnybank Private Hospital, Brisbane, Australia<br>
 Favourite subject: Mathematics<br>
@@ -13,7 +13,7 @@ Fun fact: My account name, Isabel-Lifu-211207-XPrado is derived from my name,<br
 birthdate in ddmmyy without the slashes, and then Kiss=X Prado! <br>
 *Sorry to Sylvia, cos you didn't exist yet when I joined Github 🤣</h4>
 <br><br>
-<h3>About Prado (who thinks he's a human):<br></h3>
+<h3>About Prado (who thinks he's a human):</h3><br>
 <h4>Breed: Golden Retriever<br>
 Species: Canis lupus familiaris (Dog)<br>
 Gender: Male <br>
