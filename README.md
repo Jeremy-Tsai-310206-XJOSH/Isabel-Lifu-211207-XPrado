@@ -20,15 +20,15 @@ Birth Place: Blue Mountains, Sydney, Australia<br>
 Love rate: 100% pure love <br>
 Name history: My family bought a 2019 Toyota Land Cruiser Prado right before buying him, so we called him Prado too XD</h4>
 <br><br>
-About Sylvia:<br>
-Breed: Sable German Sheperd<br>
+<h3>About Sylvia:<br></h3>
+<h4>Breed: Sable German Sheperd<br>
 Species: Canis lupus familiaris (Dog)<br>
 Gender: Female<br>
 Date of Birth: 23rd February 2021 (Yes, she's a puppy, currently 8 weeks old!)<br>
 Birth Place: Sunnybank, Brisbane, Australia<br>
 Love rate: 100% pure love<br>
-Name history: Her fur has a silverish lining on the outside, visible in most lighting, except indoors - She turns brown XD
-</h3><br><br>
+Name history: Her fur has a silverish lining on the outside, visible in most lighting, except indoors - She turns brown XD</h4>
+<br>
 
 <h3 align="center">Here's a little bit more about me and my pet, Prado: <br>https://isabel-lifu-211207-xprado.github.io/HTML-Project-2021/About_the_author.html<br><br></h3>
 
