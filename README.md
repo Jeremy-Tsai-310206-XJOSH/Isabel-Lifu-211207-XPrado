@@ -34,7 +34,7 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 	
 </div>
 
-<h3 align="center">Here's a little bit more about me and my pet, Prado: <br>https://isabel-lifu-211207-xprado.github.io/HTML-Project-2021/About_the_author.html<br><br></h3>
+<h3 align="center">Here's a little bit more about me and my pets: <br>https://isabel-lifu-211207-xprado.github.io/HTML-Project-2021/About_the_author.html<br><br></h3>
 
 <p align="center">
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://gpvc.arturio.dev/Isabel-Lifu-211207-XPrado"></a> <!--Profile views-->
