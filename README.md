@@ -33,8 +33,8 @@ Pets: A Golden Retriever called Prado, A German Sheperd called Sylvia<br>
 Fun fact: My account name, Isabel-Lifu-211207-XPrado is derived from my name,<br>
 birthdate in ddmmyy without the slashes, and then Kiss=X Prado! <br>
 *Sorry to Sylvia, cos you didn't exist yet when I joined Github 🤣</h4>
-<br><br>
-<h3>About Prado (who thinks he's a human):</h3><br>
+<br>
+<h3>About Prado (who thinks he's a human):</h3>
 <h4>Breed: Golden Retriever<br>
 Species: Canis lupus familiaris (Dog)<br>
 Gender: Male <br>
@@ -43,7 +43,7 @@ Birth Place: Blue Mountains, Sydney, Australia<br>
 Love rate: 100% pure love <br>
 Name history: My family bought a 2019 Toyota Land Cruiser Prado right before buying him, <br>
 so we called him Prado too XD</h4>
-<br><br>
+<br>
 <h3>About Sylvia:<br></h3>
 <h4>Breed: Sable German Sheperd<br>
 Species: Canis lupus familiaris (Dog)<br>
