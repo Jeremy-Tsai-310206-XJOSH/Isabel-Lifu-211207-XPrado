@@ -12,19 +12,10 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&theme=tokyonight"><br>
 </p>
 
-<p align="left">
+<p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol,brainfuck"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&theme=tokyonight"><br><br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Isabel-Lifu-211207-XPrado&theme=tokyonight"><br><br>
-</p>
-
-
-<h3 align="left">Pinned Repositories:</h3>
-<p>
-	<a href="https://github.com/TurnipGuy30/Pokemon-PythonRed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Pokemon-PythonRed&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/DT-Assignment-Yr-9-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=DT-Assignment-Yr-9-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/BrainF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=BrainF&theme=tokyonight&show_owner=true" width="400" height="150"></a>
-	<a href="https://github.com/TurnipGuy30/Hello-world"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TurnipGuy30&repo=Hello-world&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 </p>
 
 
