@@ -1,8 +1,8 @@
 <h1 align="center"> ♡ Isabel Lifu ♡</h1>
 <h3 align="center">Welcome to my profile!</h3><br>
-
+<div align="center">
 <h3>
-About Isabel:<br></h3>
+About Isabel (Me):<br></h3>
 <h4>Date of Birth: 21st December 2007<br>
 Birth Place: Sunnybank Private Hospital, Brisbane, Australia<br>
 Favourite subject: Mathematics<br>
@@ -27,8 +27,9 @@ Gender: Female<br>
 Date of Birth: 23rd February 2021 (Yes, she's a puppy, currently 8 weeks old!)<br>
 Birth Place: Sunnybank, Brisbane, Australia<br>
 Love rate: 100% pure love<br>
-Name history: Her fur has a silverish lining on the outside, visible in most lighting, except indoors - She turns brown XD</h4>
-<br>
+Name history: Her fur has a silverish lining on the outside, visible in most lighting, except indoors - She turns brown XD</h4><br>
+	
+</div>
 
 <h3 align="center">Here's a little bit more about me and my pet, Prado: <br>https://isabel-lifu-211207-xprado.github.io/HTML-Project-2021/About_the_author.html<br><br></h3>
 
