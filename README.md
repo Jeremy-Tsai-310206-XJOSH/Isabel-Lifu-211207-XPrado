@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile! I'm <br> ♡ Isabel Lifu ♡</h1>
+<h1 align="center">Welcome to my profile! <br><br>I'm ♡ Isabel Lifu ♡</h1>
 
 <p align="center">
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://gpvc.arturio.dev/Isabel-Lifu-211207-XPrado"></a> <!--Profile views-->
