@@ -1,6 +1,8 @@
 <h1 align="center"> ♡ Isabel Lifu ♡</h1>
 <h3 align="center">Welcome to my profile!</h3>
-Here's a little bit more about me and my pet, Prado: <br>https://isabel-lifu-211207-xprado.github.io/HTML-Project-2021/About_the_author.html<br><br>
+
+<h3 align="center">Here's a little bit more about me and my pet, Prado: <br>https://isabel-lifu-211207-xprado.github.io/HTML-Project-2021/About_the_author.html<br><br></h3>
+
 <p align="center">
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://gpvc.arturio.dev/Isabel-Lifu-211207-XPrado"></a> <!--Profile views-->
 	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-ff69b4"></a> <!--Contact-->
