@@ -1,24 +1,24 @@
 <h1 align="center"> ♡ Isabel Lifu ♡</h1>
-<h3 align="center">Welcome to my profile!</h3><br><br>
+<h3 align="center">Welcome to my profile!</h3><br>
 
-<h3 align="center">
-About Isabel:<br>
-Date of Birth: 21st December 2007<br>
+<h3>
+About Isabel:<br></h3>
+<h4>Date of Birth: 21st December 2007<br>
 Birth Place: Sunnybank Private Hospital, Brisbane, Australia<br>
 Favourite subject: Mathematics<br>
 Favourite topic: Vector Calculus<br>
 Placing in family: First and only child<br>
 Pets: A Golden Retriever called Prado, A German Sheperd called Sylvia<br>
-Fun fact: My account name, Isabel-Lifu-211207-XPrado is derived from my name, birthdate in ddmmyy without the slashes, and then Kiss=X Prado! *Sorry to Sylvia, cos you didn't exist yet when I joined Github
+Fun fact: My account name, Isabel-Lifu-211207-XPrado is derived from my name, birthdate in ddmmyy without the slashes, and then Kiss=X Prado! *Sorry to Sylvia, cos you didn't exist yet when I joined Github</h4>
 <br><br>
-About Prado (who thinks he's a human):<br>
-Breed: Golden Retriever<br>
+<h3>About Prado (who thinks he's a human):<br></h3>
+<h4>Breed: Golden Retriever<br>
 Species: Canis lupus familiaris (Dog)<br>
 Gender: Male <br>
 Date of birth: 23rd March 2019 (Almost 2 years old)<br>
 Birth Place: Blue Mountains, Sydney, Australia<br>
 Love rate: 100% pure love <br>
-Name history: My family bought a 2019 Toyota Land Cruiser Prado right before buying him, so we called him Prado too XD
+Name history: My family bought a 2019 Toyota Land Cruiser Prado right before buying him, so we called him Prado too XD</h4>
 <br><br>
 About Sylvia:<br>
 Breed: Sable German Sheperd<br>
