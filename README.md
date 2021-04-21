@@ -1,5 +1,5 @@
 <h1 align="center"> ♡ Isabel Lifu ♡</h1>
-<h3 align="center">Welcome to my profile!</h3><br>
+<h3 align="center">Welcome to my profile!</h3>
 <div align="center">
 <h3>
 
