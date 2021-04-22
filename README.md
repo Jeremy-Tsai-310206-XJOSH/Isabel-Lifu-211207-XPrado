@@ -24,7 +24,7 @@
 
 <h3 align="center">School projects/assignments:</h3>
 <p>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado/HTML-Project-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado0&repo=HTML-PROJECT-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado/HTML-Project-2021"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado0&repo=HTML-Project-2021&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 </p>
 
@@ -60,6 +60,5 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 </div>
 
 <!--
-  ~ README created by @TurnipGuy30 ~ Find me at GitHub.com/TurnipGuy30 ~ 
-  ~ Special thanks to TurnipGuy30! - Account owner, Isabel ~
+  ~ Special thanks to my friend TurnipGuy30 for initialising my profile's ReadME! - Account owner, Isabel ~
 -->
