@@ -28,7 +28,7 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=true" width="400" height="150"></a>
 </p>
 
-About Isabel (Me):</h3><br>
+<h3>About Isabel (Me):</h3><br>
 <h4>Date of Birth: 21st December 2007<br>
 Birth Place: Sunnybank Private Hospital, Brisbane, Australia<br>
 Favourite subject: Mathematics<br>
