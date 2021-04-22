@@ -43,7 +43,7 @@ Love rate: 100% pure love <br>
 Name history: My family bought a 2019 Toyota Land Cruiser Prado right before buying him, <br>
 so we called him Prado too XD</h4>
 <br>
-<h3>About Sylvia:<br></h3>
+<h3>About Sylvia (who also thinks she's a human):<br></h3>
 <h4>Breed: Sable German Sheperd<br>
 Species: Canis lupus familiaris (Dog)<br>
 Gender: Female<br>
