@@ -16,6 +16,7 @@
 	<a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=Isabel-Lifu-211207-XPrado&column=4&title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=dracula"></a><br><br> <!--Trophies-->
 	<img src="https://github-readme-stats.vercel.app/api?username=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&theme=tokyonight"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnipGuy30&layout=compact&theme=tokyonight">
+	<img src="https://github-readme-stats.vercel.app/api/top-langsusername=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=99&custom_title=Top%2010%20Used%20Languages"><br><br>
 </p>
 
 <p align="center">
