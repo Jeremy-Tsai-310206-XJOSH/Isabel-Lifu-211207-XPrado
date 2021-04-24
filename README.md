@@ -16,10 +16,6 @@
 	<a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=Isabel-Lifu-211207-XPrado&column=4&title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=dracula"></a><br><br> <!--Trophies-->
 	<img src="https://github-readme-stats.vercel.app/api?username=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&theme=tokyonight"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langsusername=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10"><br><br>
-</p>
-
-<p align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Isabel-Lifu-211207-XPrado&theme=tokyonight"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol,brainfuck"><br><br>
 </p>
