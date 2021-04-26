@@ -9,6 +9,19 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://gpvc.arturio.dev/Isabel-Lifu-211207-XPrado"></a> <!--Profile views-->
 	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-ff69b4"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-navy"></a> <!--Shoutout-->
+	<br>
+	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> <!--GitHub-->
+	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> <!--Chromium-->
+	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> <!--Atom-->
+	<img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> <!--Dreamweaver-->
+	<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"> <!--Git-->
+	<img src="https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken"> <!--GitKraken-->
+	<img src="https://img.shields.io/badge/-Git_LFS-333333?style=flat&logo=git%20lfs"> <!--Git LFS-->
+	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <!--Python-->
+	<img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5"> <!--HTML-->
+	<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <!--CSS-->
+	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> <!--JavaScript-->
+	<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js"> <!--Node.js-->
 	
 </p>
 
