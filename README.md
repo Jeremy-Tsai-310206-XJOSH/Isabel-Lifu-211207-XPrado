@@ -15,7 +15,6 @@
 	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> <!--Atom-->
 	<img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> <!--Dreamweaver-->
 	<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"> <!--Git-->
-	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <!--Python-->
 	<img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5"> <!--HTML-->
 	<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <!--CSS-->
 
