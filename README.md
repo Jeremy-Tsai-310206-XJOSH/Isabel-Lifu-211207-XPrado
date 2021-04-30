@@ -10,6 +10,13 @@
 	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-ff69b4"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-navy"></a> <!--Shoutout-->
 	<br>
+	<p align="center">
+	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a>
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-Isabel--Lifu--211207--XPrado-333333?style-flat&logo=github"></a>
+	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-hacking--mudkip-333333?style-flat&logo=github"></a>
+	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Jeremy--Tsai--310206--XJOSH-333333?style-flat&logo=github"></a>
+	<a href="https://github.com/Digital-Technologies"><img src="https://img.shields.io/badge/-Digital--Technologies-333333?style-flat&logo=github"></a>
+</p>
 	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> <!--GitHub-->
 	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> <!--Chromium-->
 	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> <!--Atom-->
