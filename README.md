@@ -66,7 +66,7 @@ so we called him Prado too XD</h4>
 <h4>Breed: Sable German Sheperd<br>
 Species: Canis lupus familiaris (Dog)<br>
 Gender: Female<br>
-Date of Birth: 23rd February 2021 (Yes, she's a puppy, currently 8 weeks old!)<br>
+Date of Birth: 23rd February 2021 (Yes, she's a puppy, currently 9 weeks old!)<br>
 Birth Place: Sunnybank, Brisbane, Australia<br>
 Love rate: 100% pure love<br>
 Name history: Her fur has a silverish lining on the outside, visible in most lighting, except indoors - She turns brown XD</h4><br>
