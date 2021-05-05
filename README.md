@@ -4,7 +4,7 @@
 <h3>
 
 <h3 align="center">Here's a site about me and my pets: <br>https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html<br><br></h3>
-<h3 align="center">Please visit my organisation's homepage! => https://xpavilion.github.io/<br></h3>
+<h3 align="center">Please visit my organisation's homepage! => https://xpavilion.github.io/<br><br></h3>
 
 <p align="center">
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://gpvc.arturio.dev/Isabel-Lifu-211207-XPrado"></a> <!--Profile views-->
