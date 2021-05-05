@@ -4,13 +4,12 @@
 <h3>
 
 <h3 align="center">Here's a site about me and my pets: <br>https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html<br><br></h3>
-<h3 align="center">Please visit my organisation's homepage! => https://xpavilion.github.io/<br><br></h3>
 
 <p align="center">
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://gpvc.arturio.dev/Isabel-Lifu-211207-XPrado"></a> <!--Profile views-->
 	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-ff69b4"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-navy"></a> <!--Shoutout for Johnny!-->
-	<br>
+	<br> <h3 align="center">Please visit my organisation's homepage! => https://xpavilion.github.io/<br><br></h3>
 	<p align="center">Supporters:
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-Isabel--Lifu--211207--XPrado-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a>
