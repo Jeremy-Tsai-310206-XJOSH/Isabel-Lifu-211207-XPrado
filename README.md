@@ -10,7 +10,7 @@
 	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-ff69b4"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-navy"></a> <!--Shoutout for Johnny!-->
 	<br>
-	<p align="center">My friends:
+	<p align="center">Supporters:
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/-Isabel--Lifu--211207--XPrado-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-hacking--mudkip-333333?style-flat&logo=github"></a>
@@ -29,7 +29,8 @@
 </p>
 
 <p align="center">
-	<a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=Isabel-Lifu-211207-XPrado&column=4&title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=dracula"></a><br><br> <!--Trophies-->
+	<a href="https://xpavilion.github.io/"><img src="https://img.shields.io/badge/-XPaVilion-333333?style=flat&logo=github"></a>
+	<a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=Isabel-Lifu-211207XPrado&column=4& 								title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=dracula"></a><br><br> <!--Trophies-->
 	<img src="https://github-readme-stats.vercel.app/api?username=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&theme=tokyonight"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight&length=10"><br><br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Isabel-Lifu-211207-XPrado&theme=tokyonight"><br><br>
