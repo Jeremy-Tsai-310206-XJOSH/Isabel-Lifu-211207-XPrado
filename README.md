@@ -41,7 +41,8 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 </p>
-
+<hr>
+<details>
 <h3>About Isabel (Me):</h3>
 <h4>Date of Birth: 21st December 2007<br>
 Birth Place: Sunnybank Private Hospital, Brisbane, Australia<br>
@@ -71,6 +72,8 @@ Date of Birth: 23rd February 2021 (Yes, she's a puppy, currently 9 weeks old!)<b
 Birth Place: Sunnybank, Brisbane, Australia<br>
 Love rate: 100% pure love<br>
 Name history: Her fur has a silverish lining on the outside, visible in most lighting, except indoors - She turns brown XD</h4><br>
+	</details>
+	<hr>
 </div>
 
 <!--
