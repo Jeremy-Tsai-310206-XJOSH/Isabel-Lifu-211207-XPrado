@@ -89,7 +89,9 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 ⯈
 
 - [ ] I've read about your dogs somewhere before
-
+- [ ] I would like to follow you
+- [ ] I would read more about your dogs in a public repo
+- [ ] Please follow me back, @https://github.com/[your-username]
 </div>
 
 <!--
