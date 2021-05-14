@@ -87,7 +87,7 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 
 ⯈
 ⯈
-⯈
+⯈<details>Tester</details>
 
 - [ ] I've read about your dogs somewhere before and they're ♡♡♡!
 - [ ] I would like to read more about your dogs in a public repo
