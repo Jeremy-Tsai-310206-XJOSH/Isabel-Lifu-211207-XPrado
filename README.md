@@ -86,7 +86,7 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 </details>
 
 
-<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me, cos why not? Even Prado's suggesting you to do so! <pre>There he is!</pre> 🐕</details>
+<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre> 🐕</details>
 
 - [ ] I've read about your dogs somewhere before and they're ♡♡♡!
 - [ ] I would like to read more about your dogs in a public repo
