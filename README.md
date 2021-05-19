@@ -43,12 +43,6 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 </p>
 
-<h3 align="center">School projects (For Mr Henley):</h3>
-<p>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
-</p>
-
 <h3>About Isabel (Me):</h3>
 <h4>Date of Birth: 21st December 2007<br>
 Birth Place: Sunnybank Private Hospital, Brisbane, Australia<br>
