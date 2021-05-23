@@ -32,7 +32,8 @@
 	
 - 🔭 I’m currently working on Trigonometric Identities' proof using exponential complex numbers in the Polar system!
 
-- 💻 All of my projects are available in my classroom of Math books I've written!
+- 💻 All of my projects are available in my classroom of Math books I've written! Only about 3.141592653589793238462643383279502884197169390175% of my work is done in [Desmos](https://www.desmos.com/calculator/ir7owwjx39)! Here are some links to my latest projects: https://www.desmos.com/calculator/ul7l7ds5ce, ![image](https://user-images.githubusercontent.com/79883837/119249654-a415f100-bbdd-11eb-90d4-bde924cbeeca.png)
+
 
 - 🥇 I'm most experienced with Vector Calculus and Further Graphing Techniques!
 
