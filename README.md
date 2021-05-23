@@ -27,6 +27,7 @@
 	<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <!--CSS-->
 
 </p>
+<div align="left">
 - 🔭 I’m currently working on Trigonometric Identities' proof using exponential complex numbers in the Polar system!
 
 - 💻 All of my projects are available in my classroom of Math books I've written!
@@ -35,6 +36,7 @@
 
 - 🌱 I’m currently learning how to prove all sorts of cool trigonometric identities using complex numbers in their polar form! I'm looking forward to learn how they can be applied in matrices!
 - 🏆 If you have any questions you can't solve within the year 11 Specialist Mathematics curriculum for Queensland, ask [me](mailto:pradolifu@gmail.com) or Prado! 
+</div>
 
 <p align="center">
 	<a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=Isabel-Lifu-211207-XPrado&column=4&title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=dracula"></a><br><br> <!--Trophies-->
