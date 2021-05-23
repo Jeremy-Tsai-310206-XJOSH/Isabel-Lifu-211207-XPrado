@@ -42,7 +42,8 @@
 
 - 🥇 I'm most experienced with Vector Calculus and Further Graphing Techniques!
 
-- 🌱 I’m currently learning how to prove all sorts of cool trigonometric identities using complex numbers in their polar form! I'm looking forward to learn how they can be manipulated to work in matrices!
+- 🌱 I’m currently learning how to prove all sorts of cool trigonometric identities using complex numbers in their polar form! I'm looking forward to learn how they can be applied in matrices!
+- 🏆 If you have any questions you can't solve within the year 11 Specialist Mathematics curriculum for Queensland, ask [me](mailto:pradolifu@gmail.com) or Prado! 
 
 <h3 align="center">School projects (For Mr Henley):</h3>
 <p>
