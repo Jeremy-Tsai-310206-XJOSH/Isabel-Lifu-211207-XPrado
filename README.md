@@ -16,7 +16,7 @@
 	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-hacking--mudkip-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Jeremy--Tsai--310206--XJOSH-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/Digital-Technologies"><img src="https://img.shields.io/badge/-Digital--Technologies-333333?style-flat&logo=github"></a>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/By-Isabel--Lifu-aqua?logo=spotify"></a> <!---->
+	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/By-Isabel--Lifu-aqua?logo=spotify"></a> <!--I pioneered spotify! I am an entrepreneur!-->
 </p>
 	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> <!--GitHub-->
 	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> <!--Chromium-->
@@ -35,6 +35,14 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Isabel-Lifu-211207-XPrado&theme=tokyonight"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"><br><br>
 </p>
+
+- 🔭 I’m currently working on Trigonometric Identities' proof using exponential complex numbers in the Polar system!
+
+- 💻 All of my projects are available in my classroom of Math books I've written!
+
+- 🥇 I'm most experienced with Vector Calculus and Further Graphing Techniques!
+
+- 🌱 I’m currently learning how to prove all sorts of cool trigonometric identities using complex numbers in their polar form! I'm looking forward to learn how they can be manipulated to work in matrices!
 
 <h3 align="center">School projects (For Mr Henley):</h3>
 <p>
