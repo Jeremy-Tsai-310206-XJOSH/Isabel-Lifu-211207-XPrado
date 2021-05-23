@@ -27,7 +27,9 @@
 	<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <!--CSS-->
 
 </p>
+
 <div align="left">
+	
 - 🔭 I’m currently working on Trigonometric Identities' proof using exponential complex numbers in the Polar system!
 
 - 💻 All of my projects are available in my classroom of Math books I've written!
