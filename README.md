@@ -92,7 +92,7 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 - [ ] Please follow me, Isabel, @https://github.com/Isabel-Lifu-211207-XPrado
 </div>
 
-I love you all so much!!! Thank you for following me!
+<h3 align=center>I love you all so much!!! Thank you for following me!</h3>
 <!--
   ~ Special thanks to my friend TurnipGuy30 for initialising my profile's ReadME! - Account owner, Isabel ~
 -->
