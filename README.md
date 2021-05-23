@@ -16,7 +16,6 @@
 	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-hacking--mudkip-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Jeremy--Tsai--310206--XJOSH-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/Digital-Technologies"><img src="https://img.shields.io/badge/-Digital--Technologies-333333?style-flat&logo=github"></a>
-	<a href="https://github.com/xiaoluoboding"><img src="https://img.shields.io/badge/-Yunwei--Xiao-333333?style-flat&logo=github"></a>
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/By-Isabel--Lifu-aqua?logo=spotify"></a> <!---->
 </p>
 	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> <!--GitHub-->
@@ -93,6 +92,7 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 - [ ] Please follow me, Isabel, @https://github.com/Isabel-Lifu-211207-XPrado
 </div>
 
+I love you all so much!!! Thank you for following me!
 <!--
   ~ Special thanks to my friend TurnipGuy30 for initialising my profile's ReadME! - Account owner, Isabel ~
 -->
