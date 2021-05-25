@@ -48,7 +48,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Isabel-Lifu-211207-XPrado&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"><br><br>
 </p>
 
-<h3 align="center">School projects (For (Mr Henley)[https://github.com/digital-technologies]):</h3>
+<h3 align="center">School projects (For [Mr Henley](https://github.com/digital-technologies) ):</h3>
 <p>
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
