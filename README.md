@@ -19,7 +19,7 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/By-Isabel--Lifu-aqua?logo=spotify"></a> <!--I pioneered spotify! I am an entrepreneur!-->
 </p>
 
-<p align="center"> <h3 align="center"> Apps that I use: </h3><br><br>
+<p align="center"> <h3 align="center"> Apps that I use: </h3>
 	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> <!--GitHub-->
 	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> <!--Chromium-->
 	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> <!--Atom-->
