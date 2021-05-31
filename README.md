@@ -55,7 +55,7 @@
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Isabel-Lifu-211207-XPrado/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Isabel-Lifu-211207-XPrado&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 </p>
-
+<hr>
 <details><summary>About Me</summary>
 <hr>
 <h3>About Isabel (Me):</h3>
@@ -99,7 +99,7 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 </details>
 
 
-<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre> 🐕</details>
+<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre> 🐕</details><hr>
 
 - [ ] I've read about your dogs somewhere before and they're ♡♡♡!
 - [ ] I would like to read more about your dogs in a public repo
