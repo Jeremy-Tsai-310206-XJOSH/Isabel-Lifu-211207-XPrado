@@ -99,7 +99,7 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 </details>
 
 
-<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre> 🐕</details><hr>
+<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre> <details><summary>🐕</summary>OMG YOU'VE FOUND AN ULTRA-PRIVATE MESSAGE! Let me show you a pic of him! Click [here](https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html)</details></details><hr>
 
 - [ ] I've read about your dogs somewhere before and they're ♡♡♡!
 - [ ] I would like to read more about your dogs in a public repo
