@@ -34,7 +34,7 @@
 	
 - 🔭 I’m currently working on Trigonometric Identities' proof using exponential complex numbers in the Polar system!
 
-- 💻 All of my projects are available in my classroom of Math books I've written! Only about 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986828034825% of my work is done in ![Desmos](https://www.desmos.com/calculator/ir7owwjx39)! Here are some links to my latest projects: <br>@https://www.desmos.com/calculator/ul7l7ds5ce, ![image](https://user-images.githubusercontent.com/79883837/119249654-a415f100-bbdd-11eb-90d4-bde924cbeeca.png)<br>@https://www.desmos.com/calculator/n55td6dbjc, ![image](https://user-images.githubusercontent.com/79883837/119249679-d7f11680-bbdd-11eb-87a2-84e9c1c5175b.png)<br>@https://www.desmos.com/calculator/amfi3ztxuz, ![image](https://user-images.githubusercontent.com/79883837/119249699-ff47e380-bbdd-11eb-832d-d70dc0ccabc3.png)<br>@https://www.desmos.com/calculator/iupyl2sot3, ![image](https://user-images.githubusercontent.com/79883837/119249726-33bb9f80-bbde-11eb-8839-e00d1ea0196f.png)
+- 💻 All of my projects are available in my classroom of Math books I've written! Only about 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986828034825% of my work is done in [Desmos](https://www.desmos.com/calculator/ir7owwjx39)! Here are some links to my latest projects: <br>@https://www.desmos.com/calculator/ul7l7ds5ce, ![image](https://user-images.githubusercontent.com/79883837/119249654-a415f100-bbdd-11eb-90d4-bde924cbeeca.png)<br>@https://www.desmos.com/calculator/n55td6dbjc, ![image](https://user-images.githubusercontent.com/79883837/119249679-d7f11680-bbdd-11eb-87a2-84e9c1c5175b.png)<br>@https://www.desmos.com/calculator/amfi3ztxuz, ![image](https://user-images.githubusercontent.com/79883837/119249699-ff47e380-bbdd-11eb-832d-d70dc0ccabc3.png)<br>@https://www.desmos.com/calculator/iupyl2sot3, ![image](https://user-images.githubusercontent.com/79883837/119249726-33bb9f80-bbde-11eb-8839-e00d1ea0196f.png)
 
 - 🥇 I'm most experienced with Vector Calculus and Further Graphing Techniques!
 
@@ -99,7 +99,7 @@ Name history: Her fur has a silverish lining on the outside, visible in most lig
 </details>
 
 
-<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre> <details><summary>🐕</summary>OMG YOU'VE FOUND AN ULTRA-PRIVATE MESSAGE! Let me show you a pic of him! Click ![here](https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html)</details></details><hr>
+<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Please follow me! Even Prado's suggesting you to do so! <pre>There he is!</pre> <details><summary>🐕</summary>OMG YOU'VE FOUND AN ULTRA-PRIVATE MESSAGE! Let me show you a pic of him! Click [here](https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html)</details></details><hr>
 
 - [ ] I've read about your dogs somewhere before and they're ♡♡♡!
 - [ ] I would like to read more about your dogs in a public repo
