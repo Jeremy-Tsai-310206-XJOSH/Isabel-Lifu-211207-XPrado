@@ -64,7 +64,7 @@ Birth Place: Sunnybank Private Hospital, Brisbane, Australia<br>
 Favourite subject: Mathematics<br>
 Favourite topic: Vector Calculus<br>
 Placing in family: First and only child<br>
-Pets: A Golden Retriever called Prado, A German Sheperd called Sylvia<br>
+Pets: A Golden Retriever called Prado, A German Shepherd called Sylvia<br>
 Fun fact: My account name, Isabel-Lifu-211207-XPrado is derived from my name,<br>
 birthdate in ddmmyy without the slashes, and then Kiss=X Prado! <br>
 *Sorry to Sylvia, cos you didn't exist yet when I joined Github 🤣</h4>
@@ -88,10 +88,10 @@ so we called him Prado too XD</h4>
 <details><summary>About Sylvia</summary>
 <hr>
 <h3>About Sylvia (who also thinks she's a human):<br></h3>
-<h4>Breed: Sable German Sheperd<br>
+<h4>Breed: Sable German Shepherd<br>
 Species: Canis lupus familiaris (Dog)<br>
 Gender: Female<br>
-Date of Birth: 23rd February 2021 (Yes, she's a puppy, currently 9 weeks old!)<br>
+Date of Birth: 23rd February 2021 (Yes, she's a puppy, currently 12 weeks old!)<br>
 Birth Place: Sunnybank, Brisbane, Australia<br>
 Love rate: 100% pure love<br>
 Name history: Her fur has a silverish lining on the outside, visible in most lighting, except indoors - She turns brown XD</h4><br>
