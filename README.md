@@ -1,5 +1,5 @@
 <h1 align="center"> ♡ Isabel ∯Calculus<sup>∞</sup>⊉⊷ Lifu ♡</h1>
-<h3 align="center">Welcome to my profile!</h3>
+<h3 align="center">Welcome to my profile!</h3><hr>
 <div align="center">
 <h3>
 
